@@ -3219,3 +3219,10 @@ input, select, textarea {
 			}
 
 	}
+#header .inner {
+    color: black;
+}
+
+#header .inner a {
+    color: black;
+}
